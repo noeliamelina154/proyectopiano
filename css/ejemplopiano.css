@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding:0px;
+    list-style: none;
+}
+.textos{
+    font-family: 'Bona Nova', serif;
+    text-align: center;
+    line-height: 18px;
+
+    
+}
+.text1{
+    font-size: 15px;
+    font-weight: 500;
+    color:grey
+}
+.text2{
+    font-size:26px;
+    font-weight: 700;
+    color:rgb(58, 58, 58);
+    letter-spacing: 3px;
+}
+.text3{
+font-size: 17px;
+font-weight: 600;
+color:rgb(85, 82, 82);
+letter-spacing: 2px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Bona Nova', serif;
+    color:black;
+}
+a:hover{
+    color:grey;
+}
+nav{
+    
+    margin: 20px auto 15px auto;
+    padding: 15px auto 15px auto;
+    width: 600px;
+    height: 50px;
+    border-top: black solid 3px;
+}
+nav:hover{
+    border-bottom: grey solid 3px;
+}
+li{
+    display: inline;
+    padding: 15px 20px;
+}
+.menu{
+    margin:10px auto 10px auto; 
+}
+.imagen{
+    margin: 20px auto 15px auto;
+    padding: 15px auto 15px auto;
+    width: 600px;
+}
+  img{
+      width: 600px;
+      height: 200px;
+  }
+  .textofinal{
+      text-align: center;
+      font-family: 'Bona Nova', serif;   
+      font-size: 15px;
+    
+    margin: 20px auto 15px auto;
+    padding: 15px auto 15px auto;
+    width: 600px;
+    height: 100px;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+
+  }
